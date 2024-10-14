@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "A boilerplate project",
   "main": "server.js",
+  "author": {
+    "name": "Lithurshan",
+    "email": "lithurshan2000@gmail.com"
+  },
   "scripts": {
     "start": "node server.js"
   },
